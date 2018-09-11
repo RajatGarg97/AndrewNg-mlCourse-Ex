@@ -1,6 +1,4 @@
-	#git ignoring matlab files
-    
-    /machine-learning-ex1/ex1/.ipynb_checkpoints/
+	/machine-learning-ex1/ex1/.ipynb_checkpoints/
 	/machine-learning-ex1/ex1/computeCost.m
 	/machine-learning-ex1/ex1/computeCostMulti.m
 	/machine-learning-ex1/ex1/ex1.m
@@ -64,3 +62,58 @@
 	/machine-learning-ex5/ex5/submit.m
 	/machine-learning-ex5/ex5/trainLinearReg.m
 	/machine-learning-ex5/ex5/validationCurve.m
+	/machine-learning-ex6/ex6/.ipynb_checkpoints/
+	/machine-learning-ex6/ex6/dataset3Params.m
+	/machine-learning-ex6/ex6/emailFeatures.m
+	/machine-learning-ex6/ex6/emailSample1.txt
+	/machine-learning-ex6/ex6/emailSample2.txt
+	/machine-learning-ex6/ex6/ex6.m
+	/machine-learning-ex6/ex6/ex6_spam.m
+	/machine-learning-ex6/ex6/gaussianKernel.m
+	/machine-learning-ex6/ex6/getVocabList.m
+	/machine-learning-ex6/ex6/lib/
+	/machine-learning-ex6/ex6/linearKernel.m
+	/machine-learning-ex6/ex6/plotData.m
+	/machine-learning-ex6/ex6/porterStemmer.m
+	/machine-learning-ex6/ex6/processEmail.m
+	/machine-learning-ex6/ex6/readFile.m
+	/machine-learning-ex6/ex6/spamSample1.txt
+	/machine-learning-ex6/ex6/spamSample2.txt
+	/machine-learning-ex6/ex6/submit.m
+	/machine-learning-ex6/ex6/svmPredict.m
+	/machine-learning-ex6/ex6/svmTrain.m
+	/machine-learning-ex6/ex6/visualizeBoundary.m
+	/machine-learning-ex6/ex6/visualizeBoundaryLinear.m
+	/machine-learning-ex6/ex6/vocab.txt
+	/machine-learning-ex7/ex7/.ipynb_checkpoints/
+	/machine-learning-ex7/ex7/computeCentroids.m
+	/machine-learning-ex7/ex7/displayData.m
+	/machine-learning-ex7/ex7/drawLine.m
+	/machine-learning-ex7/ex7/ex7.m
+	/machine-learning-ex7/ex7/ex7_pca.m
+	/machine-learning-ex7/ex7/featureNormalize.m
+	/machine-learning-ex7/ex7/findClosestCentroids.m
+	/machine-learning-ex7/ex7/kMeansInitCentroids.m
+	/machine-learning-ex7/ex7/lib/
+	/machine-learning-ex7/ex7/pca.m
+	/machine-learning-ex7/ex7/plotDataPoints.m
+	/machine-learning-ex7/ex7/plotProgresskMeans.m
+	/machine-learning-ex7/ex7/projectData.m
+	/machine-learning-ex7/ex7/recoverData.m
+	/machine-learning-ex7/ex7/runkMeans.m
+	/machine-learning-ex7/ex7/submit.m
+	/machine-learning-ex8/ex8/.ipynb_checkpoints/
+	/machine-learning-ex8/ex8/checkCostFunction.m
+	/machine-learning-ex8/ex8/cofiCostFunc.m
+	/machine-learning-ex8/ex8/computeNumericalGradient.m
+	/machine-learning-ex8/ex8/estimateGaussian.m
+	/machine-learning-ex8/ex8/ex8.m
+	/machine-learning-ex8/ex8/ex8_cofi.m
+	/machine-learning-ex8/ex8/fmincg.m
+	/machine-learning-ex8/ex8/lib/
+	/machine-learning-ex8/ex8/loadMovieList.m
+	/machine-learning-ex8/ex8/multivariateGaussian.m
+	/machine-learning-ex8/ex8/normalizeRatings.m
+	/machine-learning-ex8/ex8/selectThreshold.m
+	/machine-learning-ex8/ex8/submit.m
+	/machine-learning-ex8/ex8/visualizeFit.m
